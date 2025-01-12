@@ -5,7 +5,7 @@
  * @version 1.0.0, December 2022
  * @version 1.0.1, January 2024. Refactoring
  */
- 'use strict';
+'use strict';
 
 console.log('DOM content fully loaded');
 
