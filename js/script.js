@@ -1,7 +1,7 @@
 /**
  * Web performance example: lazy loading of images
  * 
- * @author  Arturo Mora-Rioja (amri@kea.dk)
+ * @author  Arturo Mora-Rioja
  * @version 1.0.0, December 2022
  * @version 1.0.1, January 2024. Refactoring
  */
